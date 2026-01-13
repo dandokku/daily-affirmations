@@ -2,9 +2,7 @@
 
 A beautiful, calming web application that delivers one powerful positive affirmation per day to improve your mood and mindset. Built with modern web technologies for a premium, Apple-like user experience.
 
-![Daily Affirm Preview](https://via.placeholder.com/800x400/6366f1/ffffff?text=Daily+Affirm+Preview)
-
-## ✨ Features
+## Features
 
 ### Core Functionality
 - **Daily Affirmations**: Receive a new positive affirmation every day
@@ -28,7 +26,7 @@ Choose from 6 carefully curated categories:
 - **Share Feature**: Copy affirmations to clipboard for sharing
 - **Premium Design**: Glassmorphism effects, soft gradients, and elegant typography
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js 18+
@@ -38,8 +36,8 @@ Choose from 6 carefully curated categories:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/daily-affirm.git
-   cd daily-affirm
+   git clone https://github.com/danokku/daily-affirmations-client.git
+   cd daily-affirmations-client
    ```
 
 2. **Install dependencies**
@@ -71,10 +69,10 @@ npm start
 - **Deployment**: Netlify-ready
 - **State Management**: React hooks + localStorage
 
-## 📁 Project Structure
+## Project Structure
 
 ```
-daily-affirm/
+daily-affirmations-client/
 ├── src/
 │   ├── app/
 │   │   ├── layout.tsx          # Root layout with theme provider
@@ -98,7 +96,7 @@ daily-affirm/
 └── README.md
 ```
 
-## 🎨 Design Philosophy
+## Design Philosophy
 
 Daily Affirm follows Apple's design principles with a focus on:
 
@@ -108,7 +106,7 @@ Daily Affirm follows Apple's design principles with a focus on:
 - **Accessibility**: High contrast ratios and keyboard navigation
 - **Performance**: Optimized loading and smooth interactions
 
-## 🔧 Customization
+## Customization
 
 ### Adding New Affirmations
 
@@ -159,14 +157,14 @@ The app uses TailwindCSS. Key design tokens:
 
 The app is built with Next.js and can be deployed to any platform supporting Node.js applications.
 
-## 📱 Browser Support
+## Browser Support
 
 - Chrome 90+
 - Firefox 88+
 - Safari 14+
 - Edge 90+
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch: `git checkout -b feature/amazing-feature`
@@ -174,17 +172,13 @@ The app is built with Next.js and can be deployed to any platform supporting Nod
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Affirmations**: Carefully curated from various mindfulness and positive psychology sources
 - **Design Inspiration**: Apple, Calm, and Headspace apps
 - **Icons**: Custom SVG icons and emoji for accessibility
 
-## 📞 Support
+## Support
 
 If you have questions or need help:
 
@@ -192,6 +186,3 @@ If you have questions or need help:
 - Check the documentation
 - Review the code comments
 
----
-
-**Made with ❤️ for better mental health and positive thinking.**
